@@ -2,7 +2,8 @@
 Projeto para transações entre empresas e clientes com linguagem java
 
 ## Tecnologias
-### foi usado linguagem java para programação das apis e utilizado banco de dados Mysql
+### Foi usado linguagem java para programação das apis e utilizado banco de dados Mysql
+### Para o uso do banco, é necessario criar um schema em um banco de dados mysql com o nome "TGDI" as tabelas são criadas pela migration
 
 ## Link para testes dos endpoints rodando o projeto
 ### http://localhost:8080/swagger-ui/index.html
